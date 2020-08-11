@@ -1,10 +1,10 @@
-title: Simply Jekyll
-name: John Doe
-user_description: Programmer (Interested in Philosophy and Math)
-notes_url: "https://simply-jekyll.netlify.app"
+title: irosyadi
+name: imron rosyadi
+user_description: a man
+notes_url: "https://simply-jekyll.netlify.app" #for notes url
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
-copyright_name: John Doe
+copyright_name: irosyadi
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
